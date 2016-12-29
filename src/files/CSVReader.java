@@ -19,7 +19,7 @@ import model.Moeda;
 
 public class CSVReader {
 	
-	private final static String FILE = "/Users/kassianesmentz/Downloads/20161228.csv";
+	private final static String FILE = "resources/20161228.csv";
 	private final static String SEPARATOR =";"; 
 	BufferedReader reader = null;
 	
